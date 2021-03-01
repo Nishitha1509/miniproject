@@ -7,7 +7,7 @@
 https://user-images.githubusercontent.com/62429166/109487516-4d02f300-7aaa-11eb-9aeb-9414a556f5c4.mp4
 
 <h2>About</h2>
-LessonBlockis an educational website for learning web technologies online like HTML,CSS and
+LessonBlock is an educational website for learning web technologies online like HTML,CSS and
 JS.Content includes tutorials, references, examples, exercises and online compiler which anybody
 can access.By using the online compiler embedded in the website anybody can edit and execute the
 code.Website also provides certification with graded quizzes when authenticated.Using Data
