@@ -3,7 +3,7 @@
 ![LessonBlock](https://user-images.githubusercontent.com/62429166/109489235-92282480-7aac-11eb-9ae8-10822cc1960b.png)<br>
 ![LessonBlock 1png](https://user-images.githubusercontent.com/62429166/109489553-0d89d600-7aad-11eb-923a-26fe2df6bd20.png)
 
-Video demo of the website
+<h2>Video demo of the website</h2>
 https://user-images.githubusercontent.com/62429166/109487516-4d02f300-7aaa-11eb-9aeb-9414a556f5c4.mp4
 
 <h2>About</h2>
