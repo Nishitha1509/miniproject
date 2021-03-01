@@ -1,5 +1,7 @@
 # LessonBlock
 
+![LessonBlock](https://user-images.githubusercontent.com/62429166/109489235-92282480-7aac-11eb-9ae8-10822cc1960b.png)
+
 Video demo of the website:
 https://user-images.githubusercontent.com/62429166/109487516-4d02f300-7aaa-11eb-9aeb-9414a556f5c4.mp4
 
